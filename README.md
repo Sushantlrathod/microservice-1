@@ -11,3 +11,5 @@
 # Service Registry - it will have all the details of services are attached to it and how may instance are attached to it. we can scale up and scale down the individual service. It can be do as load balancing.
 
 # config server - serve all the default configurations or all the configurations related to the different services to our entire architecture
+
+# log tracing - zipkin  is used for entire log tracing.
